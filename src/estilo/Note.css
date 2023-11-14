@@ -1,0 +1,28 @@
+
+.nota-container{
+
+    margin: 2em;
+    width: 60em;
+    text-align: left;
+    border: 1px solid rgba(126, 126, 240, 0.535);
+    border-radius: 2em;
+
+}
+
+.nota-texto{
+
+    width: 60em;
+    text-align: left;
+    margin: 2em;
+    padding: 0em;
+    
+}
+
+.button-eliminar{
+
+    margin: 2em;
+    margin-top: 0;
+    background-color: red;
+    text-decoration: white;
+    width: 8em;
+}
